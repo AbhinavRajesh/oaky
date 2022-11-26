@@ -1,0 +1,12 @@
+{
+  "name": "oaky",
+  "private": true,
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/AbhinavRajesh/oaky",
+  "author": "Abhinav Rajesh <abhinavrajesh@github.com>",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ]
+}
